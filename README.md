@@ -148,7 +148,7 @@ React, Tailwind CSS, Node.js, Express, MongoDB, Cloudinary, JWT
 
 # 📫 Contact
 
-* 📧 Email: (add your email here)
+* 📧 Email: msofficial.cs@gmail.com
 * 🐙 GitHub: https://github.com/MuhammadShoaib20
 * 💼 Portfolio: https://portfolio-frontend-two-eta.vercel.app
 
